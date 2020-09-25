@@ -7,11 +7,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanhoter" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lanhoter&count_private=true&theme=react&show_icons=true&hide_title=true" />
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lanhoter&count_private=true&theme=react&show_icons=true&hide_title=true" />
 <br>
-
-
-
-Yesterday you said tomorrow.
