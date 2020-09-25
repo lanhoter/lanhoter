@@ -5,7 +5,7 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanhoter" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanhoter&layout=compact" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lanhoter&count_private=true&theme=react&show_icons=true&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lanhoter&count_private=true&theme=react&show_icons=true&hide_title=true" />
 <br>
