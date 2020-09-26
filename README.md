@@ -11,5 +11,5 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanhoter&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanhoter)
 
