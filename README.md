@@ -1,9 +1,9 @@
 ### I am Mengyu
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lanhoter&count_private=true&theme=vue-dark&show_icons=true&hide_title=true" />
 
 [![Linkedin Badge](https://img.shields.io/badge/Mengyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mengyu-du9107/)](https://www.linkedin.com/in/mengyu-du9107/)
 [![Gmail Badge](https://img.shields.io/badge/-meng.du@outlook.ie-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meng.du@outlook.ie)](mailto:meng.du@outlook.ie)
 ![](https://komarev.com/ghpvc/?username=lanhoter&color=red)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lanhoter&count_private=true&theme=vue-dark&show_icons=true&hide_title=true" />
 
 - 🌱 I’m currently living in Dublin
 - 📚 I am learning Java, JavaScript, TypeScript
