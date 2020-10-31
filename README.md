@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently living in Dublin
 - 📚 I am learning Java, JavaScript, TypeScript
-
-
-<br>
+<br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanhoter&layout=compact" />
-<br>__
+<br />
 
 
 *NOTE: The Github Rating or Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/). Algorithm to calcuate ranks: [calcuateRanks](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)*
